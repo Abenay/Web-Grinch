@@ -72,7 +72,7 @@
     .hero-text h5{
         font-size: 14px;
         font-weight: 400;
-        color: white;
+        color: red;
         margin-bottom: 40px;
     }
     .hero-text h1 {
@@ -262,4 +262,5 @@
 html, body{
     overflow-x: hidden;
 }
+
 
