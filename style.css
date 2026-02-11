@@ -129,7 +129,7 @@
         position: absolute;
         top: 50%;
         padding: 0 9%;
-        transform: translateY(-50%);
+        transform: translate(-50%);
     }
     .icons i{
         display: block;
@@ -262,3 +262,4 @@
 html, body{
     overflow-x: hidden;
 }
+
